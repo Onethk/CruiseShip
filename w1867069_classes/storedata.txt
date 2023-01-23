@@ -1,0 +1,21 @@
+
+Cabin number: 0 Passenger 0
+Passenger firstname: w
+Passenger surname: w
+Passenger Expenses: 2.0
+Cabin number: 0 Passenger 1
+Passenger firstname: w
+Passenger surname: w
+Passenger Expenses: 2.0
+Cabin 0 passenger 2 is empty
+Cabin 1 is empty
+Cabin 2 is empty
+Cabin 3 is empty
+Cabin 4 is empty
+Cabin 5 is empty
+Cabin 6 is empty
+Cabin 7 is empty
+Cabin 8 is empty
+Cabin 9 is empty
+Cabin 10 is empty
+Cabin 11 is empty
